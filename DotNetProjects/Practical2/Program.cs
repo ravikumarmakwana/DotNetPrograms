@@ -13,7 +13,7 @@ namespace Practical2
             String name, country;
             Console.Write("Please enter the your name : ");
             name = Console.ReadLine();
-            Console.Write("Hello !, Where are you frome ? ");
+            Console.Write("Hello !, Where are you from ? ");
             country = Console.ReadLine();
             Console.WriteLine("Hello "+name+", you are from "+country+".");
             Console.Read();
