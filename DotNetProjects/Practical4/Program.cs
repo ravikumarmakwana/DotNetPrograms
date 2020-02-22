@@ -75,7 +75,7 @@ namespace Practical4
         }
 
         //Convert infix string into postfix string
-        // ref and out is use for pass by reference.
+        //ref and out is use for pass by reference.
         //ref means you may reference this variable.
         //out means you must initialize this variable.
         public static void infixToPostfix(ref String infix,out String postfix)
