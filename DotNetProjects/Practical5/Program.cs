@@ -216,6 +216,7 @@ namespace Practical5
                 Console.WriteLine("Number To World :: "+ans);
                 T--;
             }
+            Console.WriteLine("Thank for test cases ! ! !\nHave a Nice Day.");
             Console.Read();
         }
     }
