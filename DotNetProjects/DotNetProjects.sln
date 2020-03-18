@@ -19,8 +19,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical6", "Practical6\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical7", "Practical7\Practical7.csproj", "{99D974BF-92EB-4F43-9286-876CE0A65835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{2F40DAD2-C0B8-4CD1-9285-3A38C9C799B1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{B2152230-0359-4328-94BD-5C80CEA7E2A6}"
 EndProject
 Global
@@ -61,10 +59,6 @@ Global
 		{99D974BF-92EB-4F43-9286-876CE0A65835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D974BF-92EB-4F43-9286-876CE0A65835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D974BF-92EB-4F43-9286-876CE0A65835}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F40DAD2-C0B8-4CD1-9285-3A38C9C799B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F40DAD2-C0B8-4CD1-9285-3A38C9C799B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F40DAD2-C0B8-4CD1-9285-3A38C9C799B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F40DAD2-C0B8-4CD1-9285-3A38C9C799B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B2152230-0359-4328-94BD-5C80CEA7E2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2152230-0359-4328-94BD-5C80CEA7E2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2152230-0359-4328-94BD-5C80CEA7E2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU

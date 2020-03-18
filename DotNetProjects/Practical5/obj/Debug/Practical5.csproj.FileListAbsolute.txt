@@ -1,6 +1,5 @@
 G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\bin\Debug\Practical5.exe.config
 G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\bin\Debug\Practical5.exe
 G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\bin\Debug\Practical5.pdb
-G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\obj\Debug\Practical5.csprojAssemblyReference.cache
 G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\obj\Debug\Practical5.exe
 G:\dot NET Technology\DotNetPrograms\DotNetProjects\Practical5\obj\Debug\Practical5.pdb
